@@ -11,7 +11,7 @@
 
 💬 Ask me about your bugs and problems about python in telegram : @alihv3000 . I'll help you if i can !
 
-⚡ Fact: The big program that works was previously a child program that worked . "Jadi Mirmirani"
+⚡ Fact: The big program that works, was previously a child program that worked . "Jadi Mirmirani"
 
 
 **Languages and Tools:**
