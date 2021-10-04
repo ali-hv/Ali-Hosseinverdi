@@ -2,17 +2,17 @@
 
 ![](https://komarev.com/ghpvc/?username=Ali-Hosseinverdi&color=blue)
 
-<img src="https://i.pinimg.com/originals/d7/25/4e/d7254e416786f83b2d03434983596c7d.gif" align="left" width="300" alt="Ali Hosseinverdi"/>
+<img src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif" align="left" width="300" alt="Ali Hosseinverdi"/>
 
 <br />
 
-- 🔭 I’m currently working on a keep note program
+ - 🔭 I’m currently working on a keep note program
  
-- 🌱 I’m currently learning python
+ - 🌱 I’m currently learning python
 
-- 💬 Ask me about your bugs and problems about python in telegram : @alihv3000 . I'll help you if i can !
+ - 💬 Ask me about your bugs and problems about python in telegram : @alihv3000 . I'll help you if i can !
 
-- ⚡ Fact: The big program that works was previously a child program that worked . "Jadi Mirmirani"
+ - ⚡ Fact: The big program that works was previously a child program that worked . "Jadi Mirmirani"
 
 **Languages and Tools:**
 
