@@ -1,5 +1,5 @@
 <br />
-<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
+<img src="https://github.com/Ali-Hosseinverdi/Ali-Hosseinverdi/blob/main/photo.gif" align="left" width="300" alt="ful1e5"/>
 
 # Hi, I'm Ali Hosseinverdi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
@@ -12,6 +12,7 @@
 💬 Ask me about your bugs and problems about python in telegram : @alihv3000 . I'll help you if i can !
 
 ⚡ Fact: The big program that works was previously a child program that worked . "Jadi Mirmirani"
+
 
 **Languages and Tools:**
 
@@ -26,3 +27,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 
 <br />
+
+<div align="center" style="display: flex; justify-content: space-between;">
+    <a href="https://www.instagram.com/c010r._.fu11">
+        <img src="https://imgur.com/M6yBwxS" width="40" height="40" alt="Instagram Profile">
+    </a>
+    <a href="https://www.linkedin.com/in/ali-hosseinverdi-63368320b/">
+        <img src="https://i.imgur.com/Vahbdkj.png" width="40" height="40" alt="Linkedin Profile">
+    </a>
+    <a href="https://quera.ir/profile/46pb96">
+        <img src="https://static.quera.ir/images/logo/logo.0-37f748b73943.svg" alt="Kaiz's dev.to Profile" height="35" width="35">
+    </a>
+<div>
