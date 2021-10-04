@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Ali-Hosseinverdi&color=blue)
 
+<img src="https://i.pinimg.com/originals/d7/25/4e/d7254e416786f83b2d03434983596c7d.gif" align="left" width="300" alt="Ali Hosseinverdi"/>
+
 <br />
 
 - 🔭 I’m currently working on a keep note program
