@@ -30,12 +30,12 @@
 
 <div align="center" style="display: flex; justify-content: space-between;">
     <a href="https://www.instagram.com/c010r._.fu11">
-        <img src="https://imgur.com/M6yBwxS" width="40" height="40" alt="Instagram Profile">
+        <img src="https://i.imgur.com/M6yBwxS.png" width="50" height="50" alt="Instagram Profile">
     </a>
     <a href="https://www.linkedin.com/in/ali-hosseinverdi-63368320b/">
-        <img src="https://i.imgur.com/Vahbdkj.png" width="40" height="40" alt="Linkedin Profile">
+        <img src="https://selldone.ir/app/img/linkedin-circle.14f7b675.svg" width="50" height="50" alt="Linkedin Profile">
     </a>
     <a href="https://quera.ir/profile/46pb96">
-        <img src="https://static.quera.ir/images/logo/logo.0-37f748b73943.svg" alt="Kaiz's dev.to Profile" height="35" width="35">
+        <img src="https://static.quera.ir/images/logo/logo.0-37f748b73943.svg" alt="Quera Profile" height="50" width="50">
     </a>
 <div>
