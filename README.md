@@ -17,10 +17,9 @@
 **Languages and Tools:**
 
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"></code>
-<code><img height="20" src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494748.png?token=exp=1636987233~hmac=e2f646518a0fa3f2dceef6ae4c414ca6"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/128/919/919836.png"></code>
 <code><img height="20" src="https://t4.ftcdn.net/jpg/02/53/75/61/240_F_253756106_sHk75mhf5qKRGASoFxtYILl8dawJMFk4.jpg"></code>
