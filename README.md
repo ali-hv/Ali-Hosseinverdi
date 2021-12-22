@@ -34,7 +34,7 @@
     <a href="https://www.linkedin.com/in/ali-hosseinverdi-63368320b/">
         <img src="https://selldone.ir/app/img/linkedin-circle.14f7b675.svg" width="50" height="50" alt="Linkedin Profile">
     </a>
-    <a href="https://quera.ir/profile/46pb96">
-        <img src="https://static.quera.ir/images/logo/logo.0-37f748b73943.svg" alt="Quera Profile" height="50" width="50">
+    <a href="https://t.me/alihv3000">
+        <img src="https://w7.pngwing.com/pngs/419/837/png-transparent-telegram-icon-telegram-logo-computer-icons-telegram-blue-angle-triangle.png" alt="Telegram" height="50" width="50">
     </a>
 <div>
