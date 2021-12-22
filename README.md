@@ -35,6 +35,6 @@
         <img src="https://selldone.ir/app/img/linkedin-circle.14f7b675.svg" width="50" height="50" alt="Linkedin Profile">
     </a>
     <a href="https://t.me/alihv3000">
-        <img src="https://w7.pngwing.com/pngs/419/837/png-transparent-telegram-icon-telegram-logo-computer-icons-telegram-blue-angle-triangle.png" alt="Telegram" height="50" width="50">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="50" width="50">
     </a>
 <div>
