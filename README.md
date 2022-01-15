@@ -16,6 +16,8 @@
 
 **Languages and Tools:**
 
+
+
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
@@ -35,7 +37,10 @@
     <a href="https://t.me/alihv3000">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="50" width="50">
     </a>
-<div>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Hosseinverdi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hosseinverdi)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Hosseinverdi&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hosseinverdi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
