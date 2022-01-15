@@ -16,16 +16,14 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/128/919/919836.png"></code>
-<code><img height="20" src="https://t4.ftcdn.net/jpg/02/53/75/61/240_F_253756106_sHk75mhf5qKRGASoFxtYILl8dawJMFk4.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-
-<br />
+<p align="center">
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://linux.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a> 
+</p>
 
 <div align="center" style="display: flex; justify-content: space-between;">
     <a href="https://www.instagram.com/c010r._.fu11">
@@ -38,3 +36,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="50" width="50">
     </a>
 <div>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ali-Hosseinverdi&show_icons=true&theme=omni"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hosseinverdi&theme=omni"/></p>
