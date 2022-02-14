@@ -24,7 +24,6 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://linux.com/" target="_blank"> <img src="https://mpng.subpng.com/20180624/buv/kisspng-computer-terminal-linux-console-computer-icons-com-5b30203daa2f97.6230929715298806376971.jpg" alt="bash" width="40" height="40"/> </a> 
 </p>
 
 <div align="center" style="display: flex; justify-content: space-between;">
