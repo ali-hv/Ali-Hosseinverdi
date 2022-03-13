@@ -3,11 +3,10 @@
 
 # Hi, I'm Ali Hosseinverdi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-![](https://komarev.com/ghpvc/?username=Ali-Hosseinverdi&color=blue)
 
 💼 I’m currently working on a keep note program
 
-🧑‍🎓 I’m currently learning python
+🧑‍🎓 I’m currently learning machine learning
 
 💬 Ask me about your bugs and problems about python in telegram : @alihv3000 . I'll help you if i can !
 
