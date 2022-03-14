@@ -25,7 +25,9 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-**Social Media**
+<h3 align="center">
+Social Media
+</h3>
 
 <div align="center" style="display: flex; justify-content: space-between;">
     <a href="https://www.instagram.com/c010r._.fu11">
