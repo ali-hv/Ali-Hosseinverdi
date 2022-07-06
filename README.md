@@ -30,13 +30,16 @@ Social Media
 </h3>
 
 <div align="center" style="display: flex; justify-content: space-between;">
-    <a href="https://www.instagram.com/c010r._.fu11">
+    <a href="https://www.youtube.com/channel/UCfWOfDCru2FSFNtDS26te8Q">
+        <img src="https://i.imgur.com/FpwHmmL.png" width="50" height="50" alt="Instagram Profile">
+    </a>
+    <a href="https://www.instagram.com/alihv.ir">
         <img src="https://i.imgur.com/M6yBwxS.png" width="50" height="50" alt="Instagram Profile">
     </a>
     <a href="https://www.linkedin.com/in/ali-hosseinverdi-63368320b/">
         <img src="https://selldone.ir/app/img/linkedin-circle.14f7b675.svg" width="50" height="50" alt="Linkedin Profile">
     </a>
-    <a href="https://t.me/alihv3000">
+    <a href="https://t.me/ali_hv">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="50" width="50">
     </a>
 </div>
