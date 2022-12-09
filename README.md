@@ -1,16 +1,15 @@
 <br />
-<img src="https://github.com/Ali-Hosseinverdi/Ali-Hosseinverdi/blob/main/photo.gif" align="left" width="300" alt="ful1e5"/>
 
 # Hi, I'm Ali Hosseinverdi <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
 
-💼 I’m currently working on a moshaereh program
+💼 I’m currently working on a persian text editor program
 
 🧑‍🎓 I’m currently learning machine learning
 
-💬 Ask me about your bugs and problems about python in telegram : @alihv3000 . I'll help you if i can !
+💬 Ask me about your bugs and problems about python in telegram : @ali0hv . I'll help you if i can !
 
-⚡ Fact: A big program that works, was previously a small program that worked . "Jadi Mirmirani"
+⚡ Fact: A big program that works, was previously a small program that worked . **"Jadi Mirmirani"**
 
 
 **Languages and Tools:**
@@ -39,13 +38,13 @@ Social Media
     <a href="https://www.linkedin.com/in/ali-hosseinverdi-63368320b/">
         <img src="https://selldone.ir/app/img/linkedin-circle.14f7b675.svg" width="50" height="50" alt="Linkedin Profile">
     </a>
-    <a href="https://t.me/ali_hv">
+    <a href="https://t.me/ali0hv">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="50" width="50">
     </a>
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Hosseinverdi&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hosseinverdi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<p align="center">
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ali-Hosseinverdi&show_icons=true&theme=dark">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hosseinverdi&show_icons=true&theme=dark">
+</p>
