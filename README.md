@@ -36,15 +36,15 @@ Social Media
         <img src="https://i.imgur.com/M6yBwxS.png" width="50" height="50" alt="Instagram Profile">
     </a>
     <a href="https://www.linkedin.com/in/ali-hosseinverdi-63368320b/">
-        <img src="https://selldone.ir/app/img/linkedin-circle.14f7b675.svg" width="50" height="50" alt="Linkedin Profile">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="Linkedin Profile">
     </a>
     <a href="https://t.me/ali0hv">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="50" width="50">
     </a>
 </div>
 
-<br>
+<!-- <br>
 <p align="center">
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ali-Hosseinverdi&show_icons=true&theme=dark">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hosseinverdi&show_icons=true&theme=dark">
-</p>
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ali-hv&show_icons=true&theme=dark">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hv&show_icons=true&theme=dark">
+</p> -->
