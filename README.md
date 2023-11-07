@@ -31,7 +31,7 @@ Social Media
         <img src="https://i.imgur.com/FpwHmmL.png" width="50" height="50" alt="Instagram Profile">
     </a>
     <a href="https://www.instagram.com/alihv.ir">
-        <img src="https://i.imgur.com/M6yBwxS.png" width="50" height="50" alt="Instagram Profile">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="50" height="50" alt="Instagram Profile">
     </a>
     <a href="https://www.linkedin.com/in/ali-hosseinverdi-63368320b/">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="Linkedin Profile">
