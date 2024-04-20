@@ -27,10 +27,7 @@ Social Media
 </h3>
 
 <div align="center" style="display: flex; justify-content: space-between;">
-    <a href="https://www.youtube.com/channel/UCfWOfDCru2FSFNtDS26te8Q">
-        <img src="https://i.imgur.com/FpwHmmL.png" width="50" height="50" alt="Instagram Profile">
-    </a>
-    <a href="https://www.instagram.com/alihv.ir">
+    <a href="https://www.instagram.com/ali0hv">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="50" height="50" alt="Instagram Profile">
     </a>
     <a href="https://www.linkedin.com/in/ali-hosseinverdi-63368320b/">
