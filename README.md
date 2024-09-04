@@ -5,7 +5,7 @@
 
 💼 I’m currently working on a persian text editor
 
-🧑‍🎓 I’m currently learning Django
+🧑‍🎓 I’m currently learning Django rest framework
 
 💬 Ask me about your bugs and problems about python in telegram : @ali0hv . I'll help you if i can !
 
